@@ -1,0 +1,10 @@
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/edit_cache.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/distclean.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/runclean.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/rebuild_cache.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/info.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/strip_comments.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/MueLuBelosEpetra.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/debug.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/run.dir
+/home/shilei/share/dealii_origin/examples/step-0/CMakeFiles/release.dir
